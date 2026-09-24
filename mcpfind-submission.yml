@@ -1,0 +1,13 @@
+# mcpfind.org submission — READY TO FILE, blocked on npm publish.
+#
+# Their "Verify Submission Liveness" check requires the declared package to
+# actually exist on the npm registry. File this AFTER John's npm tap publishes
+# @uuriko/dasha-token-mcp, as submissions/dasha-token-mcp.yml in a PR to
+# mcpfind/mcp-find (or via the prefilled one-click form at mcpfind.org/submit).
+servers:
+  - name: "dasha-token-mcp"
+    github_url: "https://github.com/Uuriko/dasha-token-mcp"
+    package_name: "@uuriko/dasha-token-mcp"
+    description: "Read-only $dasha (Solana) token market data for trading agents: price, liquidity, market stats, read-only swap quotes."
+    package_type: "npm"
+    category: "finance"
