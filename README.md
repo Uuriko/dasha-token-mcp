@@ -61,7 +61,9 @@ advice or a price prediction.
 
 ## Registry
 
-Published in the MCP Registry as `io.github.Uuriko/dasha-token-mcp`.
+`server.json` is prepared for the MCP Registry as `io.github.Uuriko/dasha-token-mcp`
+(validated with `mcp-publisher validate`). Publishing awaits the npm package
+release — see the tap list in the distribution report.
 
 ## License
 

@@ -1,1 +1,20 @@
-{"$schema":"https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json","description":"Read-only MCP server exposing $dasha (dasha) Solana token market data to AI agents: price, liquidity, market stats, and read-only Jupiter swap quotes. No wallets, no signing, no transaction submission.","name":"io.github.Uuriko/dasha-token-mcp","packages":[{"identifier":"@uuriko/dasha-token-mcp","registryType":"npm","transport":{"type":"stdio"},"version":"1.0.0"}],"repository":{"source":"github","url":"https://github.com/Uuriko/dasha-token-mcp"},"version":"1.0.0"}
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "description": "Read-only MCP: $dasha Solana token price, liquidity, market stats, and swap quotes for AI agents.",
+  "name": "io.github.Uuriko/dasha-token-mcp",
+  "packages": [
+    {
+      "identifier": "@uuriko/dasha-token-mcp",
+      "registryType": "npm",
+      "transport": {
+        "type": "stdio"
+      },
+      "version": "1.0.0"
+    }
+  ],
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/Uuriko/dasha-token-mcp"
+  },
+  "version": "1.0.0"
+}
