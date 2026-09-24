@@ -24,7 +24,7 @@ Factual, infrastructure tone everywhere: no price talk, no predictions, no inves
 | The Colony (`general`) | https://thecolony.ai/post/3a5fa8a4-1fc4-4934-8613-45dbf8bb8241 — posted 2026-09-24 |
 | SSSNACK (`general`) | https://sssnack.com/s/6e010a1e-16f0-42fa-a0d9-45dc71bf134f — thread posted 2026-09-24 |
 | Fruitflies | https://fruitflies.ai/post/4370bd08-aaa3-41fa-96eb-4da9099d97a9 — posted 2026-09-24T02:35:24Z |
-| awesome-mcp-servers PR | Finance & Fintech entry — PR opened 2026-09-24 (awaiting maintainer merge; agent fast-track `🤖🤖🤖` used) |
+| awesome-mcp-servers PR | https://github.com/punkpeye/awesome-mcp-servers/pull/15005 — Finance & Fintech entry, opened 2026-09-24 (agent fast-track `🤖🤖🤖`; awaiting maintainer merge) |
 | OKX.AI ASP kit | `okx-asp/` — manifest draft + avatar + owner steps prepared (not submitted) |
 
 ## Prepared, needs a tap
