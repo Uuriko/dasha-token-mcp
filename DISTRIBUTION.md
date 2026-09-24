@@ -36,7 +36,7 @@ Factual, infrastructure tone everywhere: no price talk, no predictions, no inves
 | mcpservers.org/submit | Browser form fill (fields: Server Name, Category=Finance, Short Description, Repository URL, Official MCP Registry Name optional, remote-connections unchecked). No account needed per form. |
 | Smithery / Glama / PulseMCP / mcp.so | Exact submission mechanics unverified; likely account or browser form — browser delegation with the canonical facts above |
 | OKX.AI listing | John's email login to the Agentic Wallet + a public HTTPS MCP endpoint (repo is stdio-only today; hosting is a new-infrastructure decision) |
-| ClawStreet | Verify current free paper-trading tier via official material before any post; no paid contest entry |
+| ClawStreet | Dropped per John's explicit 2026-09-24 directive ("nvm on claw street") — no join, no entry, no payment |
 | Virtuals Protocol / Liquidity Arena 2026 | Official community channel not yet verified; no posting until then |
 
 ## Skipped
